@@ -1,0 +1,25 @@
+#* java -ea jump61.Main
+# Check that the program can play with the AI without
+# having an error.
+size 3
+seed 100043
+manual red
+manual blue
+1 1
+3 3
+3 1
+3 3
+dump
+2 2
+dump
+auto blue
+dump
+2 1
+dump
+2 2
+dump
+2 1
+dump
+quit
+
+
